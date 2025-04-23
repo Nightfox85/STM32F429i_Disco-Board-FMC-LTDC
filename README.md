@@ -6,5 +6,10 @@ Setup:
 -Ili9341 Initialisation via SPI5 for the RGB Interface
 -LTDC Controlling the Display
 
+Clocks:
+Sysclk (HSE): 180 MHz
+FMC APB: 90 MHz
+LTDC (Pixelclk): 6 MHz
+
 The uploaded Project is an Archive File (.zip) directly exportet from CUBE IDE. You can import it without any changes in the STM Cude IDE (used Cube IDE Rev. 1.18.1)
 
